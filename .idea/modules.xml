@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/articoli/articoli/MicroserviceArticoli.iml" filepath="$PROJECT_DIR$/articoli/articoli/MicroserviceArticoli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recensioni/recensioni/MicroserviceRecensioni.iml" filepath="$PROJECT_DIR$/recensioni/recensioni/MicroserviceRecensioni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgettoSpring.iml" filepath="$PROJECT_DIR$/.idea/ProgettoSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServer/configServer/configServer.iml" filepath="$PROJECT_DIR$/configServer/configServer/configServer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Configserver
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/daneleprivitelli/microservice
+          username: danieleprivitelli
+          password: Miravalle96
+          clone-on-start: true
+server:
+  port: 8082
